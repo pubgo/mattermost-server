@@ -16,6 +16,3 @@ In the text input box in Mattermost, type: `/test url [file-name-in-testing-fold
 
 ## Manual Testing  
 It is possible to manually test specific sections of any test, instead of using the /test command. Do this by clicking **Raw** in the header for the file when it’s open in GitHub, then copy and paste any section into Mattermost to post it. Manual testing only supports sections of 4000 characters or less per post.
-
-## Plugin Signing
-There are two test plugins 
